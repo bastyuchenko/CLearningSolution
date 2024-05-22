@@ -1,3 +1,1 @@
-#pragma once
-
-void mulitiArray();
+struct rectangle *area(float x, float y);

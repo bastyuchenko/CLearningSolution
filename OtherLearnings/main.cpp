@@ -1,13 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include "main.h"
 
 struct rectangle {
 	float len, brd;
 	double area;
 };
 
-struct rectangle* area(float x, float y);
+
 
 int main() {
 
